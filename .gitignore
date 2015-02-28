@@ -1,0 +1,7 @@
+/target
+/.settings
+/log/*
+/error
+/src/main/resources
+/cursor
+/src/test/java/net/trustie/modeltest
